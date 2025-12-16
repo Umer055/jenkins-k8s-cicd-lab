@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME   = "hamzashaukat078/library-web"
+        IMAGE_NAME   = "umer055/my-web-app"
         DOCKER_CREDS = "dockerhub-creds"
     }
 
