@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: library-web
-          image: hamzashaukat078/library-web:latest
+          image: umer055/my-web-app
           ports:
             - containerPort: 3000
 
